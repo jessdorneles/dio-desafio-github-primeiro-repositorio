@@ -1,0 +1,8 @@
+comandos do git
+
+git clone para traser repositorio do git
+cd (nome do repositorio) acessar repositorio
+ctrl + l limpar a tela do git
+git status para saber status do arquivo
+
+
