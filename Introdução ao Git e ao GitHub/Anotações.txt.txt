@@ -1,8 +1,21 @@
 comandos do git
 
 git clone para traser repositorio do git
+
 cd (nome do repositorio) acessar repositorio
+
 ctrl + l limpar a tela do git
+
 git status para saber status do arquivo
+
+enviar a pasta para controle de versão
+git add . ou git add -a
+
+git commit -m "Inclusão das anotações do curso de Git/ GitHub" (comentário)
+
+git push origin main enviar todos os commits que temos localmente para a nuvem
+
+
+
 
 
