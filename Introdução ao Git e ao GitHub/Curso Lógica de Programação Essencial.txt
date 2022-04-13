@@ -1,0 +1,8 @@
+Curso de Lógica de Programação Essencial
+Professor Denilson Bonatti
+
+
+O curso explica o que é lógica, fala sobre algoritmos e pseudocódigos, 
+lógica de programação mais especificamente sobre: fluxograma, variáveis, constantes, 
+tomadas de decisões e expressões; Além de trazer também uma introdução ao Portugal 
+explicando desvios condicional, laços de repetição, matrizes e vetores.

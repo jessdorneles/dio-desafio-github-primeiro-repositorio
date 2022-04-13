@@ -1,6 +1,34 @@
 comandos do git
 
-git clone para traser repositorio do git
+
+mkdir livro-receitas (exemplo de nome) - código para criar repositório
+ls para listar
+
+
+cd livro-receitas - comando para acessar a pasta
+
+git init - para inicial e possibilitar que o git inicialize um repositorio
+
+ls -a - mostra arquivos ocultos
+
+cd .. - voltar um nível
+
+
+git config --global user.email ""
+git config --global user.name (sem aspas)
+
+
+git add * -
+
+git commit -m ""
+
+git status - para saber status dos arquivos 
+
+git commit -m "Inclusão das anotações do curso de Git/ GitHub" (comentário)
+
+git status - para saber status dos arquivos 
+
+git clone - para traser repositorio do git
 
 cd (nome do repositorio) acessar repositorio
 
@@ -10,12 +38,10 @@ git status para saber status do arquivo
 
 enviar a pasta para controle de versão
 git add . ou git add -a
-
-git commit -m "Inclusão das anotações do curso de Git/ GitHub" (comentário)
+mv - mover arquivo
 
 git push origin main enviar todos os commits que temos localmente para a nuvem
-
-
+git restore - para mudar o status do arquivo untaged
 
 
 

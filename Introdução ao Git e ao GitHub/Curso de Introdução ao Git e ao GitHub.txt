@@ -1,0 +1,8 @@
+Curso de Introdução ao Git e ao GitHub
+Professor Otávio Reis Perkles
+
+Obs.: esse curso até o momento foi o mais desafiador pra mim, tanto que assisti ele duas vezes.
+
+O curso apresentou toda uma explicação sobre o Git e GitHub, trouxe os comandos mais utilizados e uma 
+explicação de como funciona por trás deles.
+Melhor parte foi na hora de colcocar em prática e realizar configuração e criar o primeiro repositório.

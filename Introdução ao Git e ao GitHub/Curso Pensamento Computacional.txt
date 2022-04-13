@@ -1,0 +1,7 @@
+Curso Pensamento Computaional
+Professora Juliana Mascarenhas
+
+O curso trouxe uma visão geral e também os pilares do pensamento computacional.
+Falou sobre habilidades complementares (raciocínio lógico), pilares do pensamento 
+computacional, reconhecimento de padrões, abstração, algoritmos e estudo de caso 
+para trazer um entendimento de todo conteúdo.
